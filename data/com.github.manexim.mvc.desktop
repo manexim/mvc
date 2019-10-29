@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=MVC
+GenericName=MVC
+Comment=An example program for the MVC (Model–View–Controller) pattern
+Exec=com.github.manexim.mvc
+Icon=com.github.manexim.mvc
+Categories=GNOME;GTK;
+X-GNOME-UsesNotifications=false
