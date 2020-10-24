@@ -29,7 +29,7 @@ public class Controllers.PostController {
             while (true) {
                 model.likes++;
 
-                Thread.usleep (Random.int_range(0, 5000) * 1000);
+                Thread.usleep (Random.int_range (0, 5000) * 1000);
             }
         });
     }
